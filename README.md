@@ -33,7 +33,7 @@ server.run()
 Add via Swift Package Manager:
 
 ```swift
-.package(url: "https://github.com/yourusername/mini-swift-server.git", from: "1.0.0")
+.package(url: "https://github.com/yourusername/mini-swift-server.git", branc: "main")
 ```
 
 ## Notes
