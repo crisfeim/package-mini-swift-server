@@ -43,3 +43,7 @@ Add via Swift Package Manager:
 
 ## License
 MIT
+
+## Showcase
+
+- [cli-swiftdown](https://github.com/crisfeim/cli-swiftdown)
